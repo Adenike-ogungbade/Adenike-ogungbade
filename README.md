@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I’m Adenike 👋
 
-<!--
-**Adenike-ogungbade/Adenike-ogungbade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst with hands-on experience using Excel, SQL, and Power BI to analyze business data and generate actionable insights. I am currently building my portfolio with real-world projects focused on sales performance, revenue analysis, and data storytelling.
 
-Here are some ideas to get you started:
+### 🔧 Tools & Skills
+- Excel (Data cleaning, Pivot Tables, Analysis)
+- SQL (MySQL – queries, aggregations, GROUP BY)
+- Power BI (Power Query, calculated columns, dashboards)
+- Data analysis for business decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Portfolio Projects
+- 📁 Excel Sales Analysis
+- 📁 SQL Sales Performance Analysis
+- 📁 Power BI Sales Performance Dashboard
+
+### 🌍 Remote Work
+I am seeking **fully remote Data Analyst roles**, where I can collaborate with global teams and support data-driven decisions.
+
+### 📫 Contact
+- LinkedIn: (https://www.linkedin.com/in/adenikeogungbade/)
