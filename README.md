@@ -10,7 +10,7 @@ I'm a Data Analyst with over 2 years of hands-on experience using SQL, Excel, an
 
 ### 📊 Featured Projects
 - **Sales & Revenue Analysis (Power BI)**  
-  👉 https://github.com/yourusername/sales-revenue-dashboard
+  👉 (https://github.com/Adenike-ogungbade/powerbi-sales-performance-dashboard)
 
 - **Data Cleaning & SQL Analysis**  
   👉 https://github.com/yourusername/sql-project
