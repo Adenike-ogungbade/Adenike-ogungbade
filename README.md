@@ -10,10 +10,10 @@ I'm a Data Analyst with over 2 years of hands-on experience using SQL, Excel, an
 
 ### 📊 Featured Projects
 - **Sales & Revenue Analysis (Power BI)**  
-  👉 (https://github.com/Adenike-ogungbade/powerbi-sales-performance-dashboard)
+  👉 https://github.com/Adenike-ogungbade/powerbi-sales-performance-dashboard
 
 - **Data Cleaning & SQL Analysis**  
-  👉 https://github.com/yourusername/sql-project
+  👉 https://github.com/Adenike-ogungbade/sql-sales-performance-analysis
 
 ### 🌍 Open to Remote Roles
 I’m open to remote data analyst roles across US, UK, and global teams.
@@ -21,4 +21,4 @@ I’m open to remote data analyst roles across US, UK, and global teams.
 
 
 ### 📫 Contact
-- LinkedIn: (https://www.linkedin.com/in/adenikeogungbade/)
+- LinkedIn: https://www.linkedin.com/in/adenikeogungbade/
